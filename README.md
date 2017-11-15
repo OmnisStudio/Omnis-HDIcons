@@ -10,4 +10,4 @@ This folder contains the source JSON files for the Omnis library in Github.
 To restore these files in Omnis Studio, click on the Libraries option in the Studio Browser, and click on the New Lib from JSON option. In the New Library (import) dialog, navigate to this source folder (containing library.json), and then specify a different folder or location for the new Library. Click on Import and open the library in the Studio Browser. 
 
 ### MYICONS
-This folder contains the PNG icon images. Place this folder and its contents in the 'html/icons' folder in your Omnis Studio tree.
+This folder contains the PNG icon images. Place this folder and its contents in the 'html/icons' folder in your Omnis Studio tree. When in place you should have a folder 'myicons' containing 18 icons, 6 sizes for each icon.
