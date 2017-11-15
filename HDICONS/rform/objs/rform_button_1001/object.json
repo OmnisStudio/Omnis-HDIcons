@@ -1,0 +1,93 @@
+{
+	"ident": 1001,
+	"order": 3,
+	"objtype": "kComponent",
+	"componentlib": "jsButton",
+	"componentctrl": "Button Control",
+	"properties": {
+		"::vertical": false,
+		"align": "kCenterJst",
+		"alpha": 255,
+		"bordercolor": "kColorDefault",
+		"buttonalpha": 255,
+		"buttonbackiconid": 0,
+		"buttonborderradius": 0,
+		"buttoncolor": "kColorDefault",
+		"contextmenu": "",
+		"cssclassname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": false,
+		"dropmode": "kAcceptNone",
+		"enabled": true,
+		"events": "evClick",
+		"fieldstyle": "",
+		"font": 1,
+		"fontsize": 10,
+		"fontstyle": "kPlain",
+		"iconid": "k48x48+88889",
+		"objlink": 0,
+		"preventlayoutanimation": false,
+		"text": "",
+		"textbeforeicon": false,
+		"textcolor": "kColorDefault",
+		"textishtml": false,
+		"tooltip": "",
+		"userinfo": "",
+		"visible": true
+	},
+	"screensizes": [
+		{
+			"name": "kSSZDesktop",
+			"left": 214,
+			"top": 58,
+			"width": 72,
+			"height": 72,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs320x480Portrait",
+			"left": 219,
+			"top": 81,
+			"width": 72,
+			"height": 72,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs320x480Landscape",
+			"left": 335,
+			"top": 36,
+			"width": 72,
+			"height": 72,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs768x1024Portrait",
+			"left": 211,
+			"top": 57,
+			"width": 72,
+			"height": 72,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs768x1024Landscape",
+			"left": 286,
+			"top": 64,
+			"width": 72,
+			"height": 72,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		}
+	]
+}

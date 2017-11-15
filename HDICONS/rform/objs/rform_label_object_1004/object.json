@@ -1,0 +1,89 @@
+{
+	"ident": 1004,
+	"order": 4,
+	"objtype": "kComponent",
+	"componentlib": "jsLabel",
+	"componentctrl": "Label Object",
+	"properties": {
+		"align": "kCenterJst",
+		"alpha": 255,
+		"backalpha": 255,
+		"backcolor": "RGB(255,255,255)",
+		"contextmenu": "",
+		"cssclassname": "",
+		"dataname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": true,
+		"dropmode": "kAcceptNone",
+		"enabled": false,
+		"events": "",
+		"fieldstyle": "",
+		"font": 1,
+		"fontsize": 10,
+		"fontstyle": "kPlain",
+		"objlink": 0,
+		"preventlayoutanimation": false,
+		"text": "16x16",
+		"textcolor": "kColorDefault",
+		"textishtml": false,
+		"tooltip": "",
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true
+	},
+	"screensizes": [
+		{
+			"name": "kSSZDesktop",
+			"left": 34,
+			"top": 30,
+			"width": 58,
+			"height": 25,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs320x480Portrait",
+			"left": 22,
+			"top": 34,
+			"width": 58,
+			"height": 25,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs320x480Landscape",
+			"left": 59,
+			"top": 12,
+			"width": 58,
+			"height": 25,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs768x1024Portrait",
+			"left": 37,
+			"top": 29,
+			"width": 58,
+			"height": 25,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		},
+		{
+			"name": "kSSZjs768x1024Landscape",
+			"left": 38,
+			"top": 32,
+			"width": 58,
+			"height": 25,
+			"edgefloat": "kEFnone",
+			"dragborder": false,
+			"errortextpos": "kJSErrorTextPosUnder"
+		}
+	]
+}
